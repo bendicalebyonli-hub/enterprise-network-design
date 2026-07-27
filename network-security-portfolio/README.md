@@ -35,6 +35,6 @@ and will be added as each is documented.
 
 📄 Full write-up: [`Security_Operations_Home_Lab_Portfolio.docx`](./security-operations/Security_Operations_Home_Lab_Portfolio.docx)
 
-## Contact
+## Contact: +226 71 78 28 92
 
 Bendi Caleb Yonli
